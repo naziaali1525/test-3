@@ -30,15 +30,15 @@ count -= 5.99;
     }
 
     }
-let books = [ 
-    {
-        bookImage = "images/book2.jpg",
-    }
-];
+// let books = [ 
+//     {
+//         bookImage = "images/book2.jpg",
+//     }
+// ];
 
-function addBooks(){
-    document.querySelector(".book-image").innerHTML = bookImage; 
-}
+// function addBooks(){
+//     document.querySelector(".book-image").innerHTML = bookImage; 
+// }
 
 
 
